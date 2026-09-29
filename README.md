@@ -5,7 +5,7 @@ Smart path-MTU optimizer for Linux servers and VPN nodes. Finds the largest pack
 ## Install
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/netshell/netshell-mtu/main/netshell-mtu.py -o netshell-mtu.py
+curl -fsSL https://raw.githubusercontent.com/NetShell-IR/netshell-mtu/netshell-mtu.py -o netshell-mtu.py
 sudo python3 netshell-mtu.py
 ```
 
